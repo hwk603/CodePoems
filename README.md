@@ -1,4 +1,4 @@
-# 统计 "UCanUup" 出现了次数
+# 统计 "UCanUup" 出现的次数
 ---
 
 ### python
